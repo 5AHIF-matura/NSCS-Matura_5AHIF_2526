@@ -20,3 +20,4 @@ Fragenstruktur bei der NSCS-Matura bei Herrn Höfer:
 - Luca Haas
 - Daniel Kirchmayr
 - Leo Oberndorfer
+- Eros Klein
