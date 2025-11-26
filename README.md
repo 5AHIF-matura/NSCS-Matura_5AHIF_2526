@@ -21,3 +21,17 @@ Fragenstruktur bei der NSCS-Matura bei Herrn Höfer:
 - Daniel Kirchmayr
 - Leo Oberndorfer
 - Eros Klein
+
+## Fragen vom letzten Jahr
+VPN, IP, IP-Adressen, 10-er Netz: welche Klasse (A), IPv6
+Subnetting
+NAT (Vor- und Nachteile, was ist DER Nachteil, Warum in Zukunft nicht mehr)
+öffentliche / private IP-Adressen, welche privaten NW-Configs
+
+Welche Anforderungen erfüllt ktryptografishe Hash-Funktion
+Alternativen zu Proof of Work, was bei Hashen sicherstellen (mit Salt), Aufbau Block Chain, was in Ledger, was steht hinter Transaktion, was ist Mining
+
+DNS (mit Zeichnung), was passiert bei SNI, ist Domain verschlüsselt? Wann Verschlüsselung? Wozu braucht er es im Klartext (für richtiges Zertifikat), Was für einen Port hat HTTPS?
+Selbst hosten oder anderer? Alternative zu Proxy? (NAT)
+
+VLAN: wo steht Table (Switch oder Router?), wieso keine Trunk Verbindung? routen über Layer-3-Switch
