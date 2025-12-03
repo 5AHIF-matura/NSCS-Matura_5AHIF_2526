@@ -35,3 +35,5 @@ DNS (mit Zeichnung), was passiert bei SNI, ist Domain verschlüsselt? Wann Versc
 Selbst hosten oder anderer? Alternative zu Proxy? (NAT)
 
 VLAN: wo steht Table (Switch oder Router?), wieso keine Trunk Verbindung? routen über Layer-3-Switch
+
+!
